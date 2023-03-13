@@ -41,7 +41,7 @@ Generate a unique application key with the Artisan Laravel command-line tool. Th
 
       docker compose exec app php artisan key:generate
 
-<ul><li>Now go to your browser and access your server’s domain name or IP address on port `8000`:</li></ul>
+<ul><li>Now go to your browser and access your server’s domain name or IP address on port (8000) :</li></ul>
 
         http://localhost:8000
 
